@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="declaracion.Producto">
+    <ContentPage.Content>
+        <Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="0" Padding="20,40">
+
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Factura N: " FontSize="Title">
+                        </Label>
+                        <Label x:Name="lbl_id_factura" FontSize="Title">
+                        </Label>
+
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Grid.Row="1" Padding="20,40">
+                    
+                        
+                    
+                    <Entry x:Name="txtProductoN" Placeholder="Nombre del Producto"></Entry>
+                    <Label Text="Cantidad de Productos:"></Label>
+                    <Stepper Minimum="1" Maximum="100"
+                         HorizontalOptions="Center"
+                        x:Name="SLDCantidad" ValueChanged="GenerarValorTortal" BackgroundColor="White" />
+                    
+                    <Label BindingContext="{x:Reference SLDCantidad}" Text="{Binding Value}" />
+                    
+                    <Label x:Name="lblCantidad"></Label>
+                    <Entry x:Name="txtPrecio_Unidad" TextChanged="Entry_TextChanged" Placeholder="Precio Unitario"></Entry>
+                    <Entry x:Name="txtiva_total" Placeholder="IVA Total"></Entry>
+                    <Entry x:Name="txtcostofinal" Placeholder="Precio Total"></Entry>
+                    <Button x:Name="btnAgregarProducto" Text="Guardar Producto" BackgroundColor="White" BorderColor="Gray" BorderWidth="1" TextColor="Gray" ></Button>
+                    <ListView x:Name="v_lstProductos"></ListView>
+
+
+                </StackLayout>
+
+
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

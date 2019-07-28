@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="declaracion.Factura">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="0" Padding="20,40">
+                        
+                    <Image x:Name="PhotoImage" />
+                    <Button x:Name="CameraButton" Text="Capturar Factura" BackgroundColor="White" BorderColor="Gray" BorderWidth="1" TextColor="Gray" Grid.Row="1" />
+                        <Label x:Name="lblDirectorio"></Label>
+
+                    </StackLayout>
+                <StackLayout Grid.Row="1" Padding="20,40">
+                        <Label x:Name="lblIDFactura"></Label>
+
+                        <Button x:Name="btnAddProduct" Text="Anadir Producto" BackgroundColor="White" BorderColor="Gray" BorderWidth="1" TextColor="Gray" Grid.Row="1" />
+
+                        <Entry x:Name="txtRUCcliente" Placeholder="RUC vendedor" PlaceholderColor="LightGray"></Entry>
+
+                        <Entry x:Name="txtCIcliente" Placeholder="Cedula Cliente" PlaceholderColor="LightGray"></Entry>
+
+                        <Entry x:Name="txtIva" Placeholder="IVA Total" PlaceholderColor="LightGray"></Entry>
+
+                        <Entry x:Name="txtTotal" Placeholder="Valor Total" PlaceholderColor="LightGray"></Entry>
+
+                        <Label Text="Tipo de declaracion"></Label>
+                        <Picker x:Name="pcTipoDeclaracion"
+                                    Title="Seleccione su declaracion"
+                                     HorizontalOptions="FillAndExpand">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Impuesto a la renta</x:String>
+                                    <x:String>Impuesto al Valor Agregado</x:String>
+                                    <x:String>Impuesto a la renta e IVA (Ambos)</x:String>
+
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>
+
+                        <Label Text="Tipo de Factura"></Label>
+                        <Picker x:Name="pcTipoFactura"
+                                    Title="De que se trata su factura"
+                                     HorizontalOptions="FillAndExpand">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Vivienda</x:String>
+                                    <x:String>Alimentación</x:String>
+                                    <x:String>Vestimenta</x:String>
+                                    <x:String>Educación, Arte y Cultura</x:String>
+                                    <x:String>Salud</x:String>
+                                    
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>
+
+
+
+                        <Button x:Name="btnSave" Text="Guardar Factura" BackgroundColor="White" BorderColor="LightBlue" BorderWidth="0.5" TextColor="Gray" ></Button>
+                    
+                        <ListView x:Name="lstProductos" ItemTapped="ModificarProducto">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Producto:" FontSize="Subtitle"></Label>
+                                            <Label Text="{Binding detalle}"></Label>
+                                            <Label Text="Cantidad:" FontSize="Subtitle"></Label>
+                                            <Label Text="{Binding cantidad_total}"></Label>
+                                            <Label Text="Valor Total:" FontSize="Subtitle"></Label>
+                                            <Label Text="{Binding valor_total}"></Label>
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                                
+                            </ListView.ItemTemplate>
+                        </ListView>
+
+                       
+                        
+                </StackLayout>
+
+
+            </Grid>
+        </Grid>
+            </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

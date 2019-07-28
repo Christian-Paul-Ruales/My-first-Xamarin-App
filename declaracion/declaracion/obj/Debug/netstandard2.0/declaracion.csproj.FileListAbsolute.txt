@@ -1,0 +1,225 @@
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.deps.json
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\ref\declaracion.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.pdb
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\AgregarFactura.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\facturas.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\login_page.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.csproj.CoreCompileInputs.cache
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.AssemblyInfoInputs.cache
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.AssemblyInfo.cs
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\ref\declaracion.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.pdb
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.csprojAssemblyReference.cache
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.bigrams
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.fold
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.lm
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.nn
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.params
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.size
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.word-freq
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.tesseract_cube.nn
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.traineddata
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x86\liblept1753.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x86\libtesseract3052.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x64\liblept1753.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x64\libtesseract3052.dll
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\alto
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\ambigs.train
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\api_config
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\bazaar
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\bigram
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\box.train
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\box.train.stderr
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\digits
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\get.images
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\hocr
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\inter
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\kannada
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\linebox
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\logfile
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstm.train
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstmbox
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstmdebug
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\makebox
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\Makefile.am
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\pdf
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\quiet
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\rebox
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\strokewidth
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\tsv
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\txt
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\unlv
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\wordstrbox
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.user-patterns
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.user-words
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\Makefile.am
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\pdf.ttf
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\batch
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\batch.nochop
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\Makefile.am
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\matdemo
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\msdemo
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\nobatch
+C:\Users\RJ\source\repos\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\segdemo
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\alto
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\ambigs.train
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\api_config
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\bazaar
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\bigram
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\box.train
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\box.train.stderr
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\digits
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\get.images
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\hocr
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\inter
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\kannada
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\linebox
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\logfile
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstm.train
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstmbox
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstmdebug
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\makebox
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\Makefile.am
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\pdf
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\quiet
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\rebox
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\strokewidth
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\tsv
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\txt
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\unlv
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\wordstrbox
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.bigrams
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.fold
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.lm
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.nn
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.params
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.size
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.word-freq
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.tesseract_cube.nn
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.traineddata
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.user-patterns
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.user-words
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\Makefile.am
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\pdf.ttf
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\batch
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\batch.nochop
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\Makefile.am
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\matdemo
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\msdemo
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\nobatch
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\segdemo
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x86\liblept1753.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x86\libtesseract3052.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x64\liblept1753.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\x64\libtesseract3052.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.deps.json
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\ref\declaracion.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.pdb
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.csprojAssemblyReference.cache
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\AgregarFactura.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\facturas.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\login_page.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Register.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.csproj.CoreCompileInputs.cache
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.AssemblyInfoInputs.cache
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.AssemblyInfo.cs
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\ref\declaracion.dll
+F:\Proyecto Software\declaracion\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.pdb
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.csprojAssemblyReference.cache
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.csproj.CoreCompileInputs.cache
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.AssemblyInfoInputs.cache
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.AssemblyInfo.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\alto
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\ambigs.train
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\api_config
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\bazaar
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\bigram
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\box.train
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\box.train.stderr
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\digits
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\get.images
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\hocr
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\inter
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\kannada
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\linebox
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\logfile
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstm.train
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstmbox
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\lstmdebug
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\makebox
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\Makefile.am
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\pdf
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\quiet
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\rebox
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\strokewidth
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\tsv
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\txt
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\unlv
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\configs\wordstrbox
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.bigrams
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.fold
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.lm
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.nn
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.params
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.size
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.cube.word-freq
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.tesseract_cube.nn
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.traineddata
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.user-patterns
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\eng.user-words
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\Makefile.am
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\pdf.ttf
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\batch
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\batch.nochop
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\Makefile.am
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\matdemo
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\msdemo
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\nobatch
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\tessdata\tessconfigs\segdemo
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\x86\liblept1753.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\x86\libtesseract3052.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\x64\liblept1753.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\x64\libtesseract3052.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.deps.json
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\ref\declaracion.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\bin\Debug\netstandard2.0\declaracion.pdb
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\ref\declaracion.dll
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.pdb
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\updateProducto.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\declaracion.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Factura.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\inicio_sesion.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\lstFacturas.xaml.g.cs
+C:\Users\RJ\source\repos\declaracion2\declaracion\declaracion\obj\Debug\netstandard2.0\Producto.xaml.g.cs

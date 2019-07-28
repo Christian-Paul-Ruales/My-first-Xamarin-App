@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="declaracion.Page1">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="0" Padding="20,40">
+                    <Label Text="Registrarse"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                           FontAttributes="Bold" FontSize="Title"/>
+                </StackLayout>
+
+                <StackLayout Grid.Row="1" Padding="20,40">
+                    <Label Text="Cedula:"></Label>
+                        <Entry x:Name="txtRCedula" Placeholder="Cedula/RUC:" PlaceholderColor="LightGray"></Entry>
+                    <Label Text="Usuario:"></Label>
+                        <Entry x:Name="txtRUser" Placeholder="Usuario Ej: ChristianPa" PlaceholderColor="LightGray"></Entry>
+                    <Label Text="Clave:"></Label>
+                        <Entry x:Name="txtRPass" Placeholder="Clave" PlaceholderColor="LightGray" IsPassword="True"></Entry>
+                    <Label Text="Correo Electronico:"></Label>
+                        <Entry x:Name="txtREmail" Placeholder="Correo" PlaceholderColor="LightGray"></Entry>
+                    <Label Text="Salario:"></Label>
+                        <Entry x:Name="txtRSalario" Placeholder="Cuanto ganas mensualmente?" PlaceholderColor="LightGray"></Entry>
+                    <Label Text="Tipo de Declaracion:"></Label>
+                    <Picker x:Name="pcDeclaracion"
+                                Title="Seleccione su declaracion"
+                                 HorizontalOptions="FillAndExpand">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Impuesto a la renta</x:String>
+                                <x:String>Impuesto al Valor Agregado</x:String>
+                                <x:String>Impuesto a la renta e IVA (Ambos)</x:String>
+
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker> 
+
+                    <Button x:Name="btnRegister" Text="Registrarse" BackgroundColor="White" TextColor="Gray" BorderColor="Gray"  BorderWidth="0.5"></Button>
+                    
+                    <StackLayout Orientation="Horizontal">
+                        
+
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+
+        </Grid>
+       </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
